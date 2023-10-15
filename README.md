@@ -44,7 +44,7 @@ jupyter notebook
 
 ## Contributing 🤝
 
-I welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
+I welcome contributions! Please let me know 
 
 ## License 📝
 
