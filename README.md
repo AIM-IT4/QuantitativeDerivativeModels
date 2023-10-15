@@ -1,4 +1,4 @@
-# Derivative Modelling Toolkit 📈
+# Derivative Modelling  📈
 
 ![GitHub stars](https://img.shields.io/github/stars/AIM-IT4/Derivative-Modelling)
 ![GitHub forks](https://img.shields.io/github/forks/AIM-IT4/Derivative-Modelling)
