@@ -44,7 +44,7 @@ jupyter notebook
 
 ## Contributing 🤝
 
-We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
+I welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
 ## License 📝
 
@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact 📧
 
-For any questions, feel free to reach out to us at jha.8@iitj.ac.in.
+For any questions, feel free to reach out to me  at jha.8@iitj.ac.in.
