@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact 📧
 
-For any questions, feel free to reach out to us at email@example.com.
+For any questions, feel free to reach out to us at jha.8@iitj.ac.in.
