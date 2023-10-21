@@ -1,7 +1,7 @@
 # Derivative Modelling  📈
 
-![GitHub stars](https://img.shields.io/github/stars/AIM-IT4/pricing-of-an-N-th-to-default-Collateralized-Debt-Obligation-CDO-)
-![GitHub forks](https://img.shields.io/github/forks/AIM-IT4/pricing-of-an-N-th-to-default-Collateralized-Debt-Obligation-CDO-)
+![GitHub stars](https://img.shields.io/github/stars/AIM-IT4/QuantitativeDerivativeModels)
+![GitHub forks](https://img.shields.io/github/forks/AIM-IT4/QuantitativeDerivativeModels)
 
 ## Table of Contents 📚
 
